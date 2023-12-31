@@ -1,0 +1,3 @@
+[submodule "dispatcher"]
+	path = dispatcher
+	url = https://github.com/Duranna66/dispatcher.git
