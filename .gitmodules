@@ -1,3 +1,6 @@
 [submodule "dispatcher"]
 	path = dispatcher
 	url = https://github.com/Duranna66/dispatcher.git
+[submodule "java-youtube-downloader"]
+	path = java-youtube-downloader
+	url = https://github.com/sealedtx/java-youtube-downloader.git

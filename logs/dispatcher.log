@@ -61,75 +61,142 @@
 2024-01-01 23:16:59 DEBUG UpdateProducerImpl:14 - text  w
 2024-01-01 23:17:02 DEBUG TelegramBot:43 - Received message: /start
 2024-01-01 23:17:02 DEBUG UpdateProducerImpl:14 - text  /start
-2024-01-02 22:20:35 DEBUG TelegramBot:43 - Received message: Hello
-2024-01-02 22:20:35 DEBUG UpdateProducerImpl:17 - topic1 Hello
-2024-01-02 22:21:18 DEBUG TelegramBot:43 - Received message: /start
-2024-01-02 22:21:18 DEBUG UpdateProducerImpl:17 - topic1 /start
-2024-01-02 22:22:03 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=ApXoWvfEYVU
-2024-01-02 22:22:03 DEBUG UpdateProducerImpl:17 - topic1 https://www.youtube.com/watch?v=ApXoWvfEYVU
-2024-01-02 22:24:20 DEBUG TelegramBot:43 - Received message: @marmelo_Bot
-2024-01-02 22:24:20 DEBUG UpdateProducerImpl:17 - topic1 @marmelo_Bot
-2024-01-02 22:29:31 DEBUG TelegramBot:43 - Received message: П
-2024-01-02 22:29:31 DEBUG UpdateProducerImpl:17 - topic1 П
-2024-01-02 23:53:00 DEBUG TelegramBot:43 - Received message: qwe
-2024-01-02 23:53:00 DEBUG UpdateProducerImpl:17 - topic1 qwe
-2024-01-03 00:18:00 DEBUG TelegramBot:43 - Received message: Hello
-2024-01-03 00:18:00 DEBUG UpdateProducerImpl:17 - topic1 Hello
-2024-01-03 00:18:23 DEBUG TelegramBot:43 - Received message: qwe
-2024-01-03 00:18:23 DEBUG UpdateProducerImpl:17 - topic1 qwe
-2024-01-03 00:22:06 DEBUG TelegramBot:43 - Received message: ed
-2024-01-03 00:22:06 DEBUG UpdateProducerImpl:17 - topic1 ed
-2024-01-03 00:27:43 DEBUG TelegramBot:43 - Received message: /start
-2024-01-03 00:27:43 DEBUG UpdateProducerImpl:17 - topic1 /start
-2024-01-03 00:32:40 DEBUG TelegramBot:43 - Received message: всем привет
-2024-01-03 00:32:40 DEBUG UpdateProducerImpl:17 - topic1 всем привет
-2024-01-03 00:41:18 DEBUG TelegramBot:43 - Received message: yyy
-2024-01-03 00:41:24 DEBUG UpdateProducerImpl:17 - topic1 yyy
-2024-01-03 00:42:50 DEBUG TelegramBot:43 - Received message: ep
-2024-01-03 00:42:50 DEBUG UpdateProducerImpl:17 - topic1 ep
-2024-01-03 21:16:18 DEBUG TelegramBot:43 - Received message: уа
-2024-01-03 21:16:18 DEBUG UpdateProducerImpl:17 - topic1 уа
-2024-01-03 21:21:16 DEBUG TelegramBot:43 - Received message: hello
-2024-01-03 21:21:16 DEBUG UpdateProducerImpl:17 - text hello
-2024-01-03 21:39:44 DEBUG TelegramBot:43 - Received message: xren
-2024-01-03 21:39:56 DEBUG UpdateProducerImpl:17 - text xren
-2024-01-03 21:40:23 DEBUG TelegramBot:43 - Received message: xrne]
-2024-01-03 21:40:23 DEBUG UpdateProducerImpl:17 - text xrne]
-2024-01-03 21:40:41 DEBUG TelegramBot:43 - Received message: /start
-2024-01-03 21:40:41 DEBUG UpdateProducerImpl:17 - text /start
-2024-01-03 21:43:01 DEBUG TelegramBot:43 - Received message: we
-2024-01-03 21:43:01 DEBUG UpdateProducerImpl:17 - text we
-2024-01-03 21:49:06 DEBUG TelegramBot:43 - Received message: /ty
-2024-01-03 21:49:06 DEBUG UpdateProducerImpl:17 - text /ty
-2024-01-03 22:01:06 DEBUG TelegramBot:43 - Received message: /start
-2024-01-03 22:01:06 DEBUG UpdateProducerImpl:17 - text /start
-2024-01-03 22:06:39 DEBUG TelegramBot:43 - Received message: rt
-2024-01-03 22:06:39 DEBUG UpdateProducerImpl:17 - text rt
-2024-01-03 22:14:56 DEBUG TelegramBot:43 - Received message: wer
-2024-01-03 22:14:56 DEBUG UpdateProducerImpl:17 - text wer
-2024-01-03 22:14:57 DEBUG TelegramBot:43 - Received message: ee
-2024-01-03 22:14:57 DEBUG UpdateProducerImpl:17 - text ee
-2024-01-03 22:15:47 DEBUG TelegramBot:43 - Received message: vsem privet
-2024-01-03 22:15:47 DEBUG UpdateProducerImpl:17 - text vsem privet
-2024-01-03 22:15:57 DEBUG TelegramBot:43 - Received message: /start
-2024-01-03 22:15:57 DEBUG UpdateProducerImpl:17 - text /start
-2024-01-03 22:16:10 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=gwF41nvueG0
-2024-01-03 22:16:10 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/watch?v=gwF41nvueG0
-2024-01-03 22:21:31 DEBUG TelegramBot:43 - Received message: rg
-2024-01-03 22:21:31 DEBUG UpdateProducerImpl:17 - text rg
-2024-01-03 22:22:32 DEBUG TelegramBot:43 - Received message: hytnh
-2024-01-03 22:22:32 DEBUG UpdateProducerImpl:17 - text hytnh
-2024-01-03 22:25:51 DEBUG TelegramBot:43 - Received message: r
-2024-01-03 22:25:51 DEBUG UpdateProducerImpl:17 - text r
-2024-01-03 22:29:12 DEBUG TelegramBot:43 - Received message: m
-2024-01-03 22:29:12 DEBUG UpdateProducerImpl:17 - text m
-2024-01-03 22:32:11 DEBUG TelegramBot:43 - Received message: lk
-2024-01-03 22:32:11 DEBUG UpdateProducerImpl:17 - text lk
-2024-01-03 22:33:47 DEBUG TelegramBot:43 - Received message: pop
-2024-01-03 22:33:47 DEBUG UpdateProducerImpl:17 - text pop
-2024-01-03 22:35:06 DEBUG TelegramBot:43 - Received message: rg
-2024-01-03 22:35:06 DEBUG UpdateProducerImpl:17 - text rg
-2024-01-03 22:35:25 DEBUG TelegramBot:43 - Received message: ref
-2024-01-03 22:35:25 DEBUG UpdateProducerImpl:17 - text ref
-2024-01-03 22:35:35 DEBUG TelegramBot:43 - Received message: ferver
-2024-01-03 22:35:35 DEBUG UpdateProducerImpl:17 - text ferver
+2024-01-05 10:13:48 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:13:48 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:23:28 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:23:28 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:28:21 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:28:21 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:56:36 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 10:56:36 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 23:46:01 DEBUG TelegramBot:43 - Received message: /info
+2024-01-05 23:46:01 DEBUG UpdateProducerImpl:17 - text /info
+2024-01-05 23:48:25 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 23:48:25 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/watch?v=0NWCx1xHjBE
+2024-01-05 23:50:44 DEBUG TelegramBot:43 - Received message: https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:50:44 DEBUG UpdateProducerImpl:17 - text https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:52:17 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-05 23:52:17 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-05 23:54:33 DEBUG TelegramBot:43 - Received message: null
+2024-01-05 23:55:21 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:55:21 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:55:29 DEBUG TelegramBot:43 - Received message: /info
+2024-01-05 23:55:29 DEBUG UpdateProducerImpl:17 - text /info
+2024-01-05 23:56:17 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:56:17 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:56:23 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:56:23 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:56:44 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:56:44 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:56:45 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:56:45 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:56:48 DEBUG TelegramBot:43 - Received message: Че надо
+2024-01-05 23:56:48 DEBUG UpdateProducerImpl:17 - text Че надо
+2024-01-05 23:56:49 DEBUG TelegramBot:43 - Received message: Тебе
+2024-01-05 23:56:49 DEBUG UpdateProducerImpl:17 - text Тебе
+2024-01-05 23:56:50 DEBUG TelegramBot:43 - Received message: Ваня
+2024-01-05 23:56:50 DEBUG UpdateProducerImpl:17 - text Ваня
+2024-01-05 23:56:53 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:56:53 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:56:54 DEBUG TelegramBot:43 - Received message: Как дела
+2024-01-05 23:56:54 DEBUG UpdateProducerImpl:17 - text Как дела
+2024-01-05 23:56:56 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:56:56 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:56:57 DEBUG TelegramBot:43 - Received message: https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:56:57 DEBUG UpdateProducerImpl:17 - text https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:58:18 DEBUG TelegramBot:43 - Received message: /info@marmelo_Bot
+2024-01-05 23:58:18 DEBUG UpdateProducerImpl:17 - text /info@marmelo_Bot
+2024-01-05 23:58:22 DEBUG TelegramBot:43 - Received message: https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:58:22 DEBUG UpdateProducerImpl:17 - text https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:58:28 DEBUG TelegramBot:43 - Received message: /info@marmelo_Bot
+2024-01-05 23:58:28 DEBUG UpdateProducerImpl:17 - text /info@marmelo_Bot
+2024-01-05 23:58:34 DEBUG TelegramBot:43 - Received message: https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:58:34 DEBUG UpdateProducerImpl:17 - text https://youtube.com/shorts/mvo8Ji-S4q4?si=yOrlOOsBWygSnWTt
+2024-01-05 23:58:57 DEBUG TelegramBot:43 - Received message: Все
+2024-01-05 23:58:57 DEBUG UpdateProducerImpl:17 - text Все
+2024-01-05 23:58:59 DEBUG TelegramBot:43 - Received message: Могу спать?
+2024-01-05 23:58:59 DEBUG UpdateProducerImpl:17 - text Могу спать?
+2024-01-05 23:59:15 DEBUG TelegramBot:43 - Received message: /start
+2024-01-05 23:59:15 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-05 23:59:41 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-05 23:59:41 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-05 23:59:47 DEBUG TelegramBot:43 - Received message: пизда
+2024-01-05 23:59:47 DEBUG UpdateProducerImpl:17 - text пизда
+2024-01-05 23:59:50 DEBUG TelegramBot:43 - Received message: схуяли?
+2024-01-05 23:59:50 DEBUG UpdateProducerImpl:17 - text схуяли?
+2024-01-05 23:59:54 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-05 23:59:54 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-06 00:10:15 DEBUG TelegramBot:43 - Received message: reg from Ванька🔱
+2024-01-06 00:10:15 DEBUG UpdateProducerImpl:17 - text reg
+2024-01-06 00:11:54 DEBUG TelegramBot:43 - Received message: bt,rtbl from Ванька🔱
+2024-01-06 00:11:54 DEBUG UpdateProducerImpl:17 - text bt,rtbl
+2024-01-06 00:11:55 DEBUG TelegramBot:43 - Received message: wer from Ванька🔱
+2024-01-06 00:11:55 DEBUG UpdateProducerImpl:17 - text wer
+2024-01-06 00:12:43 DEBUG TelegramBot:43 - Received message: Ваня ты бог from Сергей
+2024-01-06 00:12:43 DEBUG UpdateProducerImpl:17 - text Ваня ты бог
+2024-01-06 00:12:48 DEBUG TelegramBot:43 - Received message: батя программирования from Сергей
+2024-01-06 00:12:48 DEBUG UpdateProducerImpl:17 - text батя программирования
+2024-01-06 00:12:52 DEBUG TelegramBot:43 - Received message: просто ахуеть from Сергей
+2024-01-06 00:12:52 DEBUG UpdateProducerImpl:17 - text просто ахуеть
+2024-01-06 00:12:57 DEBUG TelegramBot:43 - Received message: /start from null
+2024-01-06 00:12:57 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-06 00:12:58 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky from Сергей
+2024-01-06 00:12:58 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-06 00:13:11 DEBUG TelegramBot:43 - Received message: что молчишь, нечего ответить???? from Сергей
+2024-01-06 00:13:11 DEBUG UpdateProducerImpl:17 - text что молчишь, нечего ответить????
+2024-01-06 00:29:41 DEBUG TelegramBot:43 - Received message: /info from Ванька🔱
+2024-01-06 00:29:41 DEBUG UpdateProducerImpl:17 - text /info
+2024-01-06 00:37:57 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky from Ванька🔱
+2024-01-06 00:37:57 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-06 00:38:25 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY from Ванька🔱
+2024-01-06 00:38:25 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-06 00:41:32 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY from Ванька🔱
+2024-01-06 00:41:32 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-06 01:00:49 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/_aHjXQnxljE from Ванька🔱
+2024-01-06 01:00:49 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/_aHjXQnxljE
+2024-01-06 01:03:24 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/_aHjXQnxljE from Ванька🔱
+2024-01-06 01:03:24 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/_aHjXQnxljE
+2024-01-06 01:09:55 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY from Ванька🔱
+2024-01-06 01:09:55 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-06 01:11:38 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY from Ванька🔱
+2024-01-06 01:11:38 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-06 01:12:03 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY from Ванька🔱
+2024-01-06 01:12:03 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-06 01:15:40 DEBUG TelegramBot:43 - Received message: short from Ванька🔱
+2024-01-06 01:15:40 DEBUG UpdateProducerImpl:17 - text short
+2024-01-06 01:15:49 DEBUG TelegramBot:43 - Received message: shorts from Ванька🔱
+2024-01-06 01:15:49 DEBUG UpdateProducerImpl:17 - text shorts
+2024-01-06 09:46:43 DEBUG TelegramBot:43 - Received message: /info@marmelo_Bot from null
+2024-01-06 09:46:43 DEBUG UpdateProducerImpl:17 - text /info@marmelo_Bot
+2024-01-06 09:46:44 DEBUG TelegramBot:43 - Received message: /start from null
+2024-01-06 09:46:44 DEBUG UpdateProducerImpl:17 - text /start
+2024-01-06 09:48:47 DEBUG TelegramBot:43 - Received message: shorts from Ванька🔱
+2024-01-06 09:48:47 DEBUG UpdateProducerImpl:17 - text shorts
+2024-01-06 09:54:01 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/sKZghz2bmWY from Ванька🔱
+2024-01-06 09:54:01 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/sKZghz2bmWY
+2024-01-06 09:58:36 DEBUG TelegramBot:43 - Received message: /info from Ванька🔱
+2024-01-06 09:58:36 DEBUG UpdateProducerImpl:17 - text /info
+2024-01-06 09:59:03 DEBUG TelegramBot:43 - Received message: /info from Ванька🔱
+2024-01-06 09:59:03 DEBUG UpdateProducerImpl:17 - text /info
+2024-01-06 09:59:24 DEBUG TelegramBot:43 - Received message: https://www.youtube.com/shorts/_aHjXQnxljE from Ванька🔱
+2024-01-06 09:59:24 DEBUG UpdateProducerImpl:17 - text https://www.youtube.com/shorts/_aHjXQnxljE
+2024-01-06 10:03:32 DEBUG TelegramBot:43 - Received message: /info@marmelo_Bot from null
+2024-01-06 10:03:32 DEBUG UpdateProducerImpl:17 - text /info@marmelo_Bot
+2024-01-06 10:03:41 DEBUG TelegramBot:43 - Received message: /info@marmelo_Bot from null
+2024-01-06 10:03:41 DEBUG UpdateProducerImpl:17 - text /info@marmelo_Bot
+2024-01-06 10:04:30 DEBUG TelegramBot:43 - Received message: /info@marmelo_Bot from null
+2024-01-06 10:04:30 DEBUG UpdateProducerImpl:17 - text /info@marmelo_Bot
+2024-01-06 10:09:03 DEBUG TelegramBot:43 - Received message: @marmelo_Bot from Ванька🔱
+2024-01-06 10:09:03 DEBUG UpdateProducerImpl:17 - text @marmelo_Bot
+2024-01-06 10:10:02 DEBUG TelegramBot:43 - Received message: @marmelo_Bot from Ванька🔱
+2024-01-06 10:10:02 DEBUG UpdateProducerImpl:17 - text @marmelo_Bot
+2024-01-06 10:19:46 DEBUG TelegramBot:43 - Received message: @marmelo_Bot from Ванька🔱
+2024-01-06 10:19:46 DEBUG UpdateProducerImpl:17 - text @marmelo_Bot
+2024-01-06 10:25:26 DEBUG TelegramBot:43 - Received message: @marmelo_Bot привет from Ванька🔱
+2024-01-06 10:25:26 DEBUG UpdateProducerImpl:17 - text @marmelo_Bot привет
+2024-01-06 10:27:54 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky from Ванька🔱
+2024-01-06 10:27:54 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-06 10:29:32 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky from Ванька🔱
+2024-01-06 10:29:32 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
+2024-01-06 10:30:01 DEBUG TelegramBot:43 - Received message: https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky from Ванька🔱
+2024-01-06 10:30:01 DEBUG UpdateProducerImpl:17 - text https://youtu.be/oDaePV8FKWY?si=0jxUwoHtx0Zo8iky
